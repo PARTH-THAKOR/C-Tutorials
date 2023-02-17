@@ -52,3 +52,5 @@ int main()
     free(ptr2);
     return 0;
 }
+
+// THAANK YOU
